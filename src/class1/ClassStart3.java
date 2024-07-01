@@ -6,7 +6,6 @@ public class ClassStart3 {
         Student student1;
 
         student1 = new Student(); // 학생을 실제 메모리에 만든다.
-        System.out.println(student1);
         student1.name = "학생1";
         student1.age = 14;
         student1.grade = 90;
