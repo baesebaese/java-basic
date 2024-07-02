@@ -17,7 +17,5 @@ public class ClassStart5 {
         for(Student s : students) { //향상된 for문
             System.out.println("이름:" + s.name + " 나이: " + s.age + " 성적: " + s.grade);
         }
-
-
     }
 }
