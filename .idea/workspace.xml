@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9227c07-198f-42fb-97e9-183bc6c18d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberDetault.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberDetaultMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberInitMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex2/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/PakageMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/PakageMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/construct/ex/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construct/ex/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,11 +105,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pack" />
+      <recent name="pack.b" />
       <recent name="construct" />
       <recent name="oop1" />
       <recent name="ref.ex" />
-      <recent name="ref" />
-      <recent name="class1" />
     </key>
   </component>
   <component name="RunManager" selected="Application.BookMain">
@@ -214,7 +207,7 @@
       <workItem from="1719817438556" duration="2849000" />
       <workItem from="1719820365808" duration="19000" />
       <workItem from="1719820393150" duration="20743000" />
-      <workItem from="1719998774226" duration="17243000" />
+      <workItem from="1719998774226" duration="19400000" />
     </task>
     <servers />
   </component>
