@@ -1,0 +1,22 @@
+package access.b;
+
+import access.a.AccessData;
+
+public class AccessOuterMain {
+    public static void main(String[] args) {
+        AccessData data = new AccessData();
+        //public 호출 가능
+        data.publicField = 1;
+        data.publicMethod();
+
+        //같은 패키지 defauilt 호출 가능
+    //    data.defaultField = 2;
+    //    data.defauiltMethod();
+
+        //private 호출 불가
+    //    data.privateField = 3;
+    //    data.privateMethod();
+
+        data.innerAccess();
+    }
+}

@@ -12,5 +12,7 @@ public class ClassStart1 {
 
         System.out.println("이름:" + student1Name + " 나이: " + student1Age + " 성적: " + stdent1Grade);
         System.out.println("이름:" + student2Name + " 나이: " + student2Age + " 성적: " + stdent2Grade);
+
+
     }
 }

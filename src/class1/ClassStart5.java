@@ -2,6 +2,9 @@ package class1;
 
 public class ClassStart5 {
     public static void main(String[] args) {
+
+        String a = "배세은";
+
         Student student1 = new Student(); // 학생을 실제 메모리에 만든다.
         student1.name = "학생1";
         student1.age = 14;

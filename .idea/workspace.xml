@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9227c07-198f-42fb-97e9-183bc6c18d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pack/PakageMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pack/PakageMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/BankAccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/SpeakerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/AccessData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/AccessInnerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/PublicClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/b/AccessOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/b/PublicClassOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex/CounterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex/MaxCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex2/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex2/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex2/ShoppingCartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/ClassStart5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +97,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccountMain.executor": "Run",
+    "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.ClassStart1.executor": "Run",
+    "Application.ClassStart2.executor": "Run",
     "Application.ClassStart3.executor": "Run",
     "Application.ClassStart4.executor": "Run",
     "Application.ClassStart5.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
+    "Application.CounterMain.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
+    "Application.DataCountMain3.executor": "Run",
     "Application.InitMain.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Run",
+    "Application.JavaMemoryMain2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MemberInitMain2.executor": "Run",
     "Application.MethodChange1.executor": "Run",
@@ -89,6 +124,7 @@
     "Application.ProductOrderMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.RectangleOopMain.executor": "Run",
+    "Application.SpeakerMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
@@ -99,26 +135,26 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/baeseeun/Desktop/WorkSpace/Java/java-basic/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="static1" />
       <recent name="pack" />
       <recent name="pack.b" />
       <recent name="construct" />
       <recent name="oop1" />
-      <recent name="ref.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookMain">
-    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex2.AccountMain" />
+  <component name="RunManager" selected="Application.DataCountMain3">
+    <configuration name="DataCountMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex2.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ex.BookMain" />
+    <configuration name="DataCountMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.ex.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
+    <configuration name="DataCountMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain3" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberInitMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MemberInitMain2" />
+    <configuration name="JavaMemoryMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memory.JavaMemoryMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="memory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleOopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex.RectangleOopMain" />
+    <configuration name="JavaMemoryMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memory.JavaMemoryMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex.*" />
+          <option name="PATTERN" value="memory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookMain" />
-        <item itemvalue="Application.ConstructMain1" />
-        <item itemvalue="Application.MemberInitMain2" />
-        <item itemvalue="Application.AccountMain" />
-        <item itemvalue="Application.RectangleOopMain" />
+        <item itemvalue="Application.DataCountMain3" />
+        <item itemvalue="Application.DataCountMain2" />
+        <item itemvalue="Application.DataCountMain1" />
+        <item itemvalue="Application.JavaMemoryMain2" />
+        <item itemvalue="Application.JavaMemoryMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +243,10 @@
       <workItem from="1719817438556" duration="2849000" />
       <workItem from="1719820365808" duration="19000" />
       <workItem from="1719820393150" duration="20743000" />
-      <workItem from="1719998774226" duration="19400000" />
+      <workItem from="1719998774226" duration="22932000" />
+      <workItem from="1720423247343" duration="15828000" />
+      <workItem from="1720596884257" duration="3259000" />
+      <workItem from="1720600654438" duration="2089000" />
     </task>
     <servers />
   </component>
@@ -237,6 +276,16 @@
           <url>file://$PROJECT_DIR$/src/ref/VarChange2.java</url>
           <line>5</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/access/ex/MaxCounter.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/access/ex/MaxCounter.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
