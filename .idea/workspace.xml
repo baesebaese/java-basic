@@ -2,12 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9227c07-198f-42fb-97e9-183bc6c18d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex2/MathArrayUtilsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/ShopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalFieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +41,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -89,6 +113,9 @@
     "Application.DataCountMain3.executor": "Run",
     "Application.DecoDataMain.executor": "Debug",
     "Application.DecoMain1.executor": "Run",
+    "Application.ExtendsAccessMain.executor": "Run",
+    "Application.FinalFieldMain.executor": "Run",
+    "Application.FinalRefMain.executor": "Run",
     "Application.InitMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
@@ -105,13 +132,19 @@
     "Application.ProductOrderMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.RectangleOopMain.executor": "Run",
+    "Application.ShopMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
+    "Application.Super1Main.executor": "Run",
+    "Application.Super2Main.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
+    "Application.extends1.ex1.CarMain.executor": "Run",
+    "Application.extends1.ex2.CarMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/baeseeun/Desktop/WorkSpace/Java/java-basic/src/extends1/overriding",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -121,6 +154,10 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/extends1/overriding" />
+      <recent name="$PROJECT_DIR$/src/extends1/ex3" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="static2" />
       <recent name="static1" />
@@ -129,13 +166,13 @@
       <recent name="construct" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathArrayUtilsMain">
+  <component name="RunManager" selected="Application.ShopMain">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
+      <option name="MAIN_CLASS_NAME" value="extends1.ex3.CarMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="extends1.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataCountMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain3" />
+    <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static1.*" />
+          <option name="PATTERN" value="extends1.access.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
+    <configuration name="ShopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex.ShopMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="extends1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoMain1" />
+    <configuration name="Super1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super1.Super1Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="extends1.super1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex2.MathArrayUtilsMain" />
+    <configuration name="Super2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super2.Super2Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex2.*" />
+          <option name="PATTERN" value="extends1.super2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MathArrayUtilsMain" />
+        <item itemvalue="Application.ShopMain" />
+        <item itemvalue="Application.Super2Main" />
+        <item itemvalue="Application.Super1Main" />
+        <item itemvalue="Application.ExtendsAccessMain" />
         <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.DecoDataMain" />
-        <item itemvalue="Application.DecoMain1" />
-        <item itemvalue="Application.DataCountMain3" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +265,7 @@
       <workItem from="1720423247343" duration="15828000" />
       <workItem from="1720596884257" duration="3259000" />
       <workItem from="1720600654438" duration="2154000" />
-      <workItem from="1720756811950" duration="5206000" />
+      <workItem from="1720756811950" duration="21464000" />
     </task>
     <servers />
   </component>
