@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9227c07-198f-42fb-97e9-183bc6c18d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/PolyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/overriding/OverridingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccountMain.executor": "Run",
+    "Application.AnimalPolyMain1.executor": "Run",
+    "Application.AnimalSoundMain.executor": "Run",
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.CarMain.executor": "Run",
@@ -139,20 +141,46 @@
       <recent name="$PROJECT_DIR$/src/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex2" />
       <recent name="poly.basic" />
       <recent name="static2" />
       <recent name="static1" />
       <recent name="pack" />
-      <recent name="pack.b" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OverridingMain">
-    <configuration name="CastingMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain4" />
+  <component name="RunManager" selected="Application.AbstractMain">
+    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex3.AbstractMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalPolyMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain1" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poly.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalSoundMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex1.AnimalSoundMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poly.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,39 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.PolyMain" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.ex.ShopMain" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="extends1.ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractMain" />
+        <item itemvalue="Application.AnimalPolyMain1" />
+        <item itemvalue="Application.AnimalSoundMain" />
         <item itemvalue="Application.OverridingMain" />
         <item itemvalue="Application.CastingMain5" />
-        <item itemvalue="Application.CastingMain4" />
-        <item itemvalue="Application.PolyMain" />
-        <item itemvalue="Application.ShopMain" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +249,9 @@
       <workItem from="1720600654438" duration="2154000" />
       <workItem from="1720756811950" duration="37257000" />
       <workItem from="1721721656543" duration="2978000" />
-      <workItem from="1721725381182" duration="979000" />
+      <workItem from="1721725381182" duration="2970000" />
+      <workItem from="1721883524797" duration="9000" />
+      <workItem from="1721883542116" duration="4539000" />
     </task>
     <servers />
   </component>
