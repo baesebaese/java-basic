@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9227c07-198f-42fb-97e9-183bc6c18d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/InterfaceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/interfaceAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,6 +75,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractMain.executor": "Run",
     "Application.AccountMain.executor": "Run",
     "Application.AnimalPolyMain1.executor": "Run",
     "Application.AnimalSoundMain.executor": "Run",
@@ -97,6 +100,7 @@
     "Application.FinalFieldMain.executor": "Run",
     "Application.FinalRefMain.executor": "Run",
     "Application.InitMain.executor": "Run",
+    "Application.InterfaceMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.Main.executor": "Run",
@@ -148,7 +152,7 @@
       <recent name="pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractMain">
+  <component name="RunManager" selected="Application.DiamondMain">
     <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poly.ex3.AbstractMain" />
       <module name="java-basic" />
@@ -188,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CastingMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain5" />
+    <configuration name="DiamondMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.diamond.DiamondMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.diamond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverridingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.overriding.OverridingMain" />
+    <configuration name="InterfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex4.InterfaceMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.overriding.*" />
+          <option name="PATTERN" value="poly.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiamondMain" />
+        <item itemvalue="Application.InterfaceMain" />
         <item itemvalue="Application.AbstractMain" />
         <item itemvalue="Application.AnimalPolyMain1" />
         <item itemvalue="Application.AnimalSoundMain" />
-        <item itemvalue="Application.OverridingMain" />
-        <item itemvalue="Application.CastingMain5" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +255,8 @@
       <workItem from="1721721656543" duration="2978000" />
       <workItem from="1721725381182" duration="2970000" />
       <workItem from="1721883524797" duration="9000" />
-      <workItem from="1721883542116" duration="4539000" />
+      <workItem from="1721883542116" duration="6154000" />
+      <workItem from="1721956543726" duration="3172000" />
     </task>
     <servers />
   </component>
